@@ -21,10 +21,10 @@
 * **Submission Status:** Final Submission (Viva Ready)
 * **Supervisor:** Shikha Tuteja (shikha.1290@chitkara.edu.in)
 
-| Name | Roll Number | Role |
-| :--- | :--- | :--- |
-| **Ashish Yadav** | [2210991404] |
-| **Hitesh  Saini** | [2210991670] | 
+| Name | Roll Number | 
+| :--- | :--- | 
+| **Ashish Yadav** | [2210991404] 
+| **Hitesh  Saini** | [2210991670]  
 
 
 ---
