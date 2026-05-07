@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# SarthiX
+# SarthiX-RaahSathi
 =======
-# 🚛 SarthiX — Logistics Bidding Platform
+# 🚛 SarthiX-TaahSathi — Logistics Bidding Platform
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 ---
 ## 🎓 Team Information
 * **Project Title:** SarthiRaahSathi — Logistics Bidding Platform
-* **Project Type:** Copyright — (Diary No.- 'SW-20192/2026-CO')
+* **Project Type:** Copyright — (Diary No.- 'SW-20359/2026-CO')
 * **Submission Status:** Final Submission (Viva Ready)
 * **Supervisor:** Shikha Tuteja (shikha.1290@chitkara.edu.in)
 
