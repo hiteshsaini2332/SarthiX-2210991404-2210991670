@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # SarthiX-RaahSathi
 =======
-# 🚛 SarthiX-TaahSathi — Logistics Bidding Platform
+# 🚛 SarthiX-RaahSathi — Logistics Bidding Platform
 
 <div align="center">
 
